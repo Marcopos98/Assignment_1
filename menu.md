@@ -5,5 +5,6 @@ Panini:
 	-Panino Vegetariano
 
 Fritti:
+	-Olive Ascolane
 
 Paninoteca Padovana
