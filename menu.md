@@ -6,5 +6,6 @@ Panini:
 
 Fritti:
 	-Olive Ascolane
+	-Arancini
 
 Paninoteca Padovana
